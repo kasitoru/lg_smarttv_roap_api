@@ -98,7 +98,7 @@ class SmartTV:
 			   '<{0}>{1}</{0}>'.format(type, params)
 
 	def __execRequest(self, url, data = {}):
-		conn = http.client.HTTPConnection(self.ip, self.port)
+		conn = http.client.HTTPConnection(self.ip, self.port, timeout=5)
 		if data:
 			method = 'POST'
 			if self.session:
