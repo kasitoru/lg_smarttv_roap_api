@@ -1,7 +1,7 @@
 # LG SmartTV ROAP API
 # Author: Sergey Avdeev
 # E-Mail: avdeevsv91@gmail.com
-# URL: https://github.com/avdeevsv91/lg_smarttv_roap_api
+# URL: https://github.com/kasitoru/lg_smarttv_roap_api
 
 import socket, re, http.client
 import xml.etree.ElementTree as etree
