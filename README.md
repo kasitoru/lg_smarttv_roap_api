@@ -3,7 +3,7 @@ LG SmartTV ROAP API
 
 Небольшая библиотека, позволяющая управлять телевизорами LG SmartTV (модели от 2012 года и младше) с помощью кода.
 
-**Пример использования смотрите в файле [example.py](https://github.com/avdeevsv91/lg_smarttv_roap_api/blob/master/example.py)**
+**Пример использования смотрите в файле [example.py](https://github.com/kasitoru/lg_smarttv_roap_api/blob/master/example.py)**
 
 ## Список доступных команд
 * TV_CMD_POWER
